@@ -34,12 +34,12 @@
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch. 
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
-    
+
 ---
 
 ### Решение 3. Logstash
 
-![](img/11.3.JPG)
+![](img/11.3.1.JPG)
 
 ---
 
@@ -53,7 +53,7 @@
 
 ### Решение 4. Filebeat
 
-![](img/11.4.JPG)
+![](img/11.4.1.JPG)
 
 ---
 
